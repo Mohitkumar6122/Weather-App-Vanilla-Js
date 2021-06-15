@@ -1,4 +1,4 @@
-## A simple weather web app developed using HYTML CSS JS 
+## A simple weather web app developed using HTML CSS JS 
 
 <hr>
 <hr>
